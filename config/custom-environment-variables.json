@@ -1,5 +1,5 @@
 {
-  "port": "PORT",
-  "path": "PATH",
-  "secret": "SECRET"
+  "port": "GD_PORT",
+  "path": "GD_PATH",
+  "secret": "GD_SECRET"
 }
