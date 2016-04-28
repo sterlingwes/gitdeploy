@@ -1,0 +1,5 @@
+{
+  "port": 7777,
+  "path": "/ghook",
+  "secret": "OVERRIDE_THIS_WITH_ENV_VAR_AT_RUNTIME"
+}
